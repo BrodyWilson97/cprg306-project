@@ -1,0 +1,302 @@
+[
+    {
+      "id": "1a2B3cD4e5FgH6i7J8K9L",
+      "name": "Spaghetti Bolognese",
+      "category": "Main Course",
+      "time": "45 mins"
+    },
+    {
+      "id": "2a3B4cD5e6FgH7i8J9K1L",
+      "name": "Chicken Alfredo",
+      "category": "Main Course",
+      "time": "30 mins"
+    },
+    {
+      "id": "3a4B5cD6e7FgH8i9J1K2L",
+      "name": "Veggie Stir-Fry",
+      "category": "Main Course",
+      "time": "25 mins"
+    },
+    {
+      "id": "4a5B6cD7e8FgH9i1J2K3L",
+      "name": "Grilled Salmon",
+      "category": "Main Course",
+      "time": "20 mins"
+    },
+    {
+      "id": "5a6B7cD8e9FgH1i2J3K4L",
+      "name": "Beef Tacos",
+      "category": "Main Course",
+      "time": "25 mins"
+    },
+    {
+      "id": "6a7B8cD9e1FgH2i3J4K5L",
+      "name": "Eggplant Parmesan",
+      "category": "Main Course",
+      "time": "40 mins"
+    },
+    {
+      "id": "7a8B9cD1e2FgH3i4J5K6L",
+      "name": "Shrimp Scampi",
+      "category": "Main Course",
+      "time": "30 mins"
+    },
+    {
+      "id": "8a9B1cD2e3FgH4i5J6K7L",
+      "name": "Chicken Caesar Salad",
+      "category": "Salad",
+      "time": "20 mins"
+    },
+    {
+      "id": "9a1B2cD3e4FgH5i6J7K8L",
+      "name": "Caprese Salad",
+      "category": "Salad",
+      "time": "15 mins"
+    },
+    {
+      "id": "10a2B3cD4e5FgH6i7J8K9L",
+      "name": "Greek Salad",
+      "category": "Salad",
+      "time": "20 mins"
+    },
+    {
+      "id": "11a3B4cD5e6FgH7i8J9K1L",
+      "name": "Caesar Salad",
+      "category": "Salad",
+      "time": "15 mins"
+    },
+    {
+      "id": "12a4B5cD6e7FgH8i9J1K2L",
+      "name": "Chicken Noodle Soup",
+      "category": "Soup",
+      "time": "45 mins"
+    },
+    {
+      "id": "13a5B6cD7e8FgH9i1J2K3L",
+      "name": "Tomato Basil Soup",
+      "category": "Soup",
+      "time": "30 mins"
+    },
+    {
+      "id": "14a6B7cD8e9FgH1i2J3K4L",
+      "name": "Butternut Squash Soup",
+      "category": "Soup",
+      "time": "50 mins"
+    },
+    {
+      "id": "15a7B8cD9e1FgH2i3J4K5L",
+      "name": "Lentil Soup",
+      "category": "Soup",
+      "time": "40 mins"
+    },
+    {
+      "id": "16a8B9cD1e2FgH3i4J5K6L",
+      "name": "Beef Stew",
+      "category": "Main Course",
+      "time": "2 hours"
+    },
+    {
+      "id": "17a9B1cD2e3FgH4i5J6K7L",
+      "name": "Chicken Parmesan",
+      "category": "Main Course",
+      "time": "45 mins"
+    },
+    {
+      "id": "18a1B2cD3e4FgH5i6J7K8L",
+      "name": "Beef Burgers",
+      "category": "Main Course",
+      "time": "25 mins"
+    },
+    {
+      "id": "19a2B3cD4e5FgH6i7J8K9L",
+      "name": "Grilled Cheese Sandwich",
+      "category": "Snack",
+      "time": "10 mins"
+    },
+    {
+      "id": "20a3B4cD5e6FgH7i8J9K1L",
+      "name": "Avocado Toast",
+      "category": "Snack",
+      "time": "5 mins"
+    },
+    {
+      "id": "21a4B5cD6e7FgH8i9J1K2L",
+      "name": "Vegetable Frittata",
+      "category": "Breakfast",
+      "time": "30 mins"
+    },
+    {
+      "id": "22a5B6cD7e8FgH9i1J2K3L",
+      "name": "Pancakes",
+      "category": "Breakfast",
+      "time": "20 mins"
+    },
+    {
+      "id": "23a6B7cD8e9FgH1i2J3K4L",
+      "name": "French Toast",
+      "category": "Breakfast",
+      "time": "15 mins"
+    },
+    {
+      "id": "24a7B8cD9e1FgH2i3J4K5L",
+      "name": "Omelette",
+      "category": "Breakfast",
+      "time": "10 mins"
+    },
+    {
+      "id": "25a8B9cD1e2FgH3i4J5K6L",
+      "name": "Smoothie Bowl",
+      "category": "Breakfast",
+      "time": "10 mins"
+    },
+    {
+      "id": "26a9B1cD2e3FgH4i5J6K7L",
+      "name": "Quinoa Salad",
+      "category": "Salad",
+      "time": "30 mins"
+    },
+    {
+      "id": "27a1B2cD3e4FgH5i6J7K8L",
+      "name": "Pesto Pasta",
+      "category": "Main Course",
+      "time": "25 mins"
+    },
+    {
+      "id": "28a2B3cD4e5FgH6i7J8K9L",
+      "name": "Lasagna",
+      "category": "Main Course",
+      "time": "1 hour 30 mins"
+    },
+    {
+      "id": "29a3B4cD5e6FgH7i8J9K1L",
+      "name": "Stuffed Peppers",
+      "category": "Main Course",
+      "time": "50 mins"
+    },
+    {
+      "id": "30a4B5cD6e7FgH8i9J1K2L",
+      "name": "Chicken Fajitas",
+      "category": "Main Course",
+      "time": "30 mins"
+    },
+    {
+      "id": "31a5B6cD7e8FgH9i1J2K3L",
+      "name": "Beef Chili",
+      "category": "Main Course",
+      "time": "1 hour"
+    },
+    {
+      "id": "32a6B7cD8e9FgH1i2J3K4L",
+      "name": "Macaroni and Cheese",
+      "category": "Main Course",
+      "time": "30 mins"
+    },
+    {
+      "id": "33a7B8cD9e1FgH2i3J4K5L",
+      "name": "Sweet Potato Fries",
+      "category": "Side Dish",
+      "time": "30 mins"
+    },
+    {
+      "id": "34a8B9cD1e2FgH3i4J5K6L",
+      "name": "Garlic Mashed Potatoes",
+      "category": "Side Dish",
+      "time": "25 mins"
+    },
+    {
+      "id": "35a9B1cD2e3FgH4i5J6K7L",
+      "name": "Roasted Vegetables",
+      "category": "Side Dish",
+      "time": "30 mins"
+    },
+    {
+      "id": "36a1B2cD3e4FgH5i6J7K8L",
+      "name": "Cornbread",
+      "category": "Side Dish",
+      "time": "30 mins"
+    },
+    {
+      "id": "37a2B3cD4e5FgH6i7J8K9L",
+      "name": "Chicken Tenders",
+      "category": "Main Course",
+      "time": "25 mins"
+    },
+    {
+      "id": "38a3B4cD5e6FgH7i8J9K1L",
+      "name": "Teriyaki Chicken",
+      "category": "Main Course",
+      "time": "30 mins"
+    },
+    {
+      "id": "39a4B5cD6e7FgH8i9J1K2L",
+      "name": "Beef Wellington",
+      "category": "Main Course",
+      "time": "2 hours 30 mins"
+    },
+    {
+      "id": "40a5B6cD7e8FgH9i1J2K3L",
+      "name": "Pad Thai",
+      "category": "Main Course",
+      "time": "40 mins"
+    },
+    {
+      "id": "41a6B7cD8e9FgH1i2J3K4L",
+      "name": "Sushi Rolls",
+      "category": "Snack",
+      "time": "45 mins"
+    },
+    {
+      "id": "42a7B8cD9e1FgH2i3J4K5L",
+      "name": "Chocolate Chip Cookies",
+      "category": "Dessert",
+      "time": "20 mins"
+    },
+    {
+      "id": "43a8B9cD1e2FgH3i4J5K6L",
+      "name": "Apple Pie",
+      "category": "Dessert",
+      "time": "1 hour 15 mins"
+    },
+    {
+      "id": "44a9B1cD2e3FgH4i5J6K7L",
+      "name": "Cheesecake",
+      "category": "Dessert",
+      "time": "2 hours"
+    },
+    {
+      "id": "45a1B2cD3e4FgH5i6J7K8L",
+      "name": "Brownies",
+      "category": "Dessert",
+      "time": "30 mins"
+    },
+    {
+      "id": "46a2B3cD4e5FgH6i7J8K9L",
+      "name": "Banana Bread",
+      "category": "Dessert",
+      "time": "1 hour"
+    },
+    {
+      "id": "47a3B4cD5e6FgH7i8J9K1L",
+      "name": "Lemon Bars",
+      "category": "Dessert",
+      "time": "40 mins"
+    },
+    {
+      "id": "48a4B5cD6e7FgH8i9J1K2L",
+      "name": "Ice Cream",
+      "category": "Dessert",
+      "time": "4 hours (chill)"
+    },
+    {
+      "id": "49a5B6cD7e8FgH9i1J2K3L",
+      "name": "Fruit Salad",
+      "category": "Dessert",
+      "time": "15 mins"
+    },
+    {
+      "id": "50a6B7cD8e9FgH1i2J3K4L",
+      "name": "Chocolate Mousse",
+      "category": "Dessert",
+      "time": "30 mins"
+    }
+]
